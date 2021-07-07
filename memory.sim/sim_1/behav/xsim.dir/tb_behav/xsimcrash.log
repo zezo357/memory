@@ -1,0 +1,41 @@
+Unable to capture context for thread 6740 in process 2976, can not generate back trace
+Unable to capture context for thread 3944 in process 2976, can not generate back trace
+Exception at PC 0x00007FFB26CBD759
+Unable to capture context for thread 6740 in process 2976, can not generate back trace
+Unable to capture context for thread 14156 in process 2976, can not generate back trace
+Exception at PC 0x00007FFA78CBBB93
+Printing stacktrace...
+
+Unable to capture context for thread 14156 in process 2976, can not generate back trace
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+[0]  [0x00007FFA78CBBB93]
+[1]  [0x00007FFA78CBBB93]
+[2]  [0x00007FFA78CBB4A1]
+[3]  [0x00007FFA78CBB3EF]
+[4]  [0x00007FFA78CA19FE]
+[5]  [0x00007FFA78CA0ED1]
+[6]  [0x00007FFA78CA0D76]
+[7]  [0x00007FFA78C479F6]
+[8]  [0x00007FFA78C37AFB]
+[9]  [0x00007FFA78D5E90A]
+[10]  [0x00007FFA78D79F87]
+[11]  [0x00007FFA78D7A05F]
+[12] (BaseThreadInitThunk+0x14) [0x00007FFB29027034]
+[13] (RtlUserThreadStart+0x21) [0x00007FFB2933D0D1]
+Done
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
+Exception at PC 0x00007FFB26CBD759
